@@ -1,0 +1,1 @@
+A handy reference guide for setting up sprints
